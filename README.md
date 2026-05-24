@@ -278,4 +278,6 @@ Clean & minimal expense tracking with effective UI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5dc8,50:0d2f6e,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20if%20you%20like%20it!&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
+<sub>⚡ Crafted with passion by <a href="https://github.com/charumanchandani">Charu Manchandani</a> · 2026 · Star ⭐ if you like it!</sub>
+
 </div>
